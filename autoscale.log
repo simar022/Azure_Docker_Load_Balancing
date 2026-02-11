@@ -61,3 +61,5 @@ Starting Autoscaler for Nginx Containers...
 2026-02-11 12:45:59 | Traffic: 0 RPS | Scale: 1
 2026-02-11 12:48:14 | Traffic: 0 RPS | Scale: 1
 2026-02-11 12:50:30 | Traffic: 0 RPS | Scale: 1
+2026-02-11 12:52:45 | Traffic: 0 RPS | Scale: 1
+2026-02-11 12:55:00 | Traffic: 0 RPS | Scale: 1
